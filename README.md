@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building a momentum based portfolio for stock investment<br>🌱 I’m currently learning about Data Science and AI agents<br>
+🔭 I’m a data geek working on building AI products related to stock market investments<br>🌱 I’m currently learning about the latest AI agents<br>
 
 
 # 💻 Tech Stack:
