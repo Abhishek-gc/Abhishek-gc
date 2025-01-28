@@ -13,6 +13,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/ai-%23ED8B00.svg?style=for-the-badge&logo=ai&logoColor=white)
+
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
