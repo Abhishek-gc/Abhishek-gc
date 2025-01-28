@@ -15,7 +15,8 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-contribution-stats.vercel.app/api/?username=Abhishek-gc)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-gc&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
