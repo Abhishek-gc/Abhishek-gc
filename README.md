@@ -9,7 +9,7 @@
 **Domains**:  
 `Data Science` `Machine Learning` `AI` `Automation` `Statistical Modeling` `Stock Market Analytics`  
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -24,11 +24,13 @@
 ![Jenkins](https://img.shields.io/badge/ai-%23ED8B00.svg?style=for-the-badge&logo=ai&logoColor=white)
 
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-contribution-stats.vercel.app/api/?username=Abhishek-gc)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-gc&theme=default&hide_border=true)<br/>
+### 📊 GitHub Stats:
+
+| ![](https://github-contribution-stats.vercel.app/api/?username=Abhishek-gc) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-gc&theme=default&hide_border=true) |
+|---|---|
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-gc&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
