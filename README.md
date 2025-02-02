@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m a data geek working on building AI products related to stock market investments<br>🌱 I’m currently learning about the latest AI agents<br>
+# Hey there! 👋  
+
+### 🔍 About Me  
+- 🚀 **Data Leader**: With **8+ years** of experience, I lead the data analysis team at **Media.net**, turning raw data into actionable insights.  
+- 💡 **AI/ML Enthusiast**: Passionate about building scalable solutions with **Python, SQL, Machine Learning, AI, and Automation**.  
+- 📈 **Stock Market Geek**: 🔭 Currently building AI-driven tools to decode market trends and empower smarter investments.  
+- 🌱 **Learning Junkie**: Always diving into the latest tech—currently obsessed with **AI agents** and autonomous systems!
+
+**Domains**:  
+`Data Science` `Machine Learning` `AI` `Automation` `Statistical Modeling` `Stock Market Analytics`  
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -24,5 +32,9 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-gc&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-gc" /> </p>
+### 🤝 Let's Connect!  
+- 💬 **Collaborate**: Open to discussions on AI, data science, or innovative tech projects.  
+- 🚀 **Open to Opportunities**: Passionate about roles in **Data Analysis, AI/ML, Data Science**!  
 
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-gc&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-gc" /> </p>
