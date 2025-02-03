@@ -7,7 +7,7 @@
 - 🌱 **Learning Junkie**: Always diving into the latest tech—currently obsessed with **AI agents** and autonomous systems!
 
 **Domains**:  
-`Data Science` `Machine Learning` `AI` `Automation` `Statistical Modeling` `Stock Market Analytics`  
+`Data Science` `Machine Learning` `AI` `Automation` `Statistical Modeling` `Stock Market Analytics` `Ad Tech`
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
