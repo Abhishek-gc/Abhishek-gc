@@ -1,6 +1,6 @@
 # Hey there! 👋  
 
-### 🔍 About Me  
+### 🔍 About me:  
 - 🚀 **Data Leader**: With **8+ years** of experience, I lead the data analysis team at **Media.net**, turning raw data into actionable insights.  
 - 💡 **AI/ML Enthusiast**: Passionate about building scalable solutions with **Python, SQL, Machine Learning, AI, and Automation**.  
 - 📈 **Stock Market Geek**: 🔭 Currently building AI-driven tools to decode market trends and empower smarter investments.  
